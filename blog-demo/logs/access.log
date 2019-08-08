@@ -1,0 +1,6 @@
+GET -- /api/blog/list -- PostmanRuntime/3.0.9 -- 1564109263096
+GET -- /api/blog/list -- PostmanRuntime/3.0.9 -- 1564109264978
+GET -- /api/blog/detali?id=2 -- PostmanRuntime/3.0.9 -- 1564109277149
+GET -- /api/blog/detail?id=2 -- PostmanRuntime/3.0.9 -- 1564109309446
+GET -- /api/blog/detail?id=2 -- PostmanRuntime/3.0.9 -- 1564109310967
+GET -- /api/blog/detail?id=2 -- PostmanRuntime/3.0.9 -- 1564109311549

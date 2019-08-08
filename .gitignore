@@ -1,2 +1,4 @@
 ##ignore this file##
 /blog-express/node_modules/
+/blog-demo/node_modules/
+/blog-1/node_modules/
