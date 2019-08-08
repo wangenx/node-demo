@@ -1,6 +1,9 @@
 ##ignore this file##
 /blog-express/node_modules/
 /blog-demo/node_modules/
-/blog-1/node_modules/
+/commonjs-test/node_modules/
+/mysql-test/node_modules/
+/redis-test/node_modules/
 .git
 .idea
+.vscode
