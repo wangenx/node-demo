@@ -11,3 +11,6 @@ stream 操作
 
 http 操作
     1、createServer((req, res) => {}) // 创建http链接
+
+.gitignore 操作
+    
