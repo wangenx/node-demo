@@ -4,6 +4,7 @@
 /commonjs-test/node_modules/
 /mysql-test/node_modules/
 /redis-test/node_modules/
+/blog-koa2/node_modules/
 .git
 .idea
 .vscode
