@@ -8,7 +8,6 @@ const loginCheck = require('../middleeware/loginCheck');
 router.prefix('/api/blog')
 
 router.get('/list', async function(ctx, next) {
-  console.log(1111)
   let author = ctx.query.author || '';
   const keyword = ctx.query.keyword || '';
 
